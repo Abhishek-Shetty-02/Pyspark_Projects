@@ -1,0 +1,84 @@
+start_station_id,start_station_name,total_trips,avg_trip_duration_mins
+JC002,Paulus Hook,646,9.403762
+JC084,Communipaw & Berry Lane,323,15.532817
+HB102,Hoboken Terminal - River St & Hudson Pl,3846,6.879264
+JC075,Monmouth & 6th,502,7.896355
+HB304,7 St & Monroe St,921,7.078067
+HB601,Church Sq Park - 5 St & Park Ave,1157,6.117684
+JC057,Riverview Park,530,13.919509
+JC095,Bergen Ave,430,7.828465
+JC032,Newark Ave,959,10.364390
+JC063,Jackson Square,147,16.530476
+HB101,Hoboken Terminal - Hudson St & Hudson Pl,1710,6.798690
+JC014,Columbus Drive,1225,8.980490
+JC024,Pershing Field,475,10.897579
+JC065,Dey St,349,8.332436
+HB602,Stevens - River Ter & 6 St,1195,7.416561
+HB404,Mama Johnson Field - 4 St & Jackson St,745,6.820403
+HB603,8 St & Washington St,1407,6.445451
+HB407,Adams St & 2 St,837,6.106057
+JC076,Dixon Mills,536,7.562295
+JC099,Montgomery St,458,9.412009
+HB203,Bloomfield St & 15 St,808,10.447290
+HB301,4 St & Grand St,888,5.498390
+HB302,6 St & Grand St,691,5.528596
+JC078,Lafayette Park,561,10.899626
+HB402,Madison St & 1 St,1071,6.098590
+HB305,9 St HBLR - Jackson St & 8 St,1093,7.812342
+JC082,Manila & 1st,935,6.346556
+JC023,Brunswick St,996,8.793926
+JC035,Van Vorst Park,788,9.266269
+HB609,River St & 1 St,1368,7.956016
+HB501,Columbus Park - Clinton St & 9 St,1397,7.373830
+HB202,14 St Ferry - 14 St & Shipyard Ln,1244,10.052259
+JC013,Marin Light Rail,1134,8.599356
+JC053,Lincoln Park,489,14.172822
+HB505,Willow Ave & 12 St,845,7.307065
+JC105,Hoboken Ave at Monmouth St,1131,8.085447
+JC115,Grove St PATH,3281,7.004803
+JC094,Glenwood Ave,300,13.968767
+JC093,Fairmount Ave,346,7.912225
+HB502,11 St & Washington St,1427,6.893644
+JC109,Bergen Ave & Sip Ave,1558,6.921804
+HB608,2 St & Park Ave,699,8.903591
+JC098,Washington St,914,11.568315
+JC097,York St & Marin Blvd,386,8.634819
+JC059,Heights Elevator,298,10.691812
+JC034,Christ Hospital,473,9.521924
+HB506,Grand St & 14 St,977,8.244104
+JC110,JC Medical Center,677,15.378419
+JC052,Liberty Light Rail,1056,13.579328
+JC006,Warren St,914,10.113534
+JC103,Journal Square,766,7.459034
+HB201,12 St & Sinatra Dr N,973,10.781357
+HB610,Adams St & 12 St,471,7.177580
+JC038,Essex Light Rail,503,7.783181
+JC027,Jersey & 6th St,548,6.111934
+JC116,Exchange Pl,1517,10.763191
+JC009,Hamilton Park,1536,7.808249
+JC074,Jersey & 3rd,639,6.228654
+JC022,Oakland Ave,561,7.958556
+JC081,Brunswick & 6th,754,7.734973
+HB103,South Waterfront Walkway - Sinatra Dr & 1 St,1284,11.312702
+JC072,Morris Canal,857,9.702637
+JC018,5 Corners Library,225,13.795378
+HB408,Marshall St & 2 St,956,8.229655
+JC055,McGinley Square,754,6.559257
+HB303,Clinton St & 7 St,1070,5.665785
+HB409,Clinton St & Newark St,828,6.367669
+JC019,Hilltop,567,13.521182
+JC077,Astor Place,332,9.798404
+JC003,City Hall,974,8.528172
+HB611,4 St & River St,1028,9.694776
+HB508,Monroe St & 11 St,605,7.290926
+JC008,Newport Pkwy,1278,12.171268
+HB105,City Hall - Washington St & 1 St,1780,7.973506
+JC102,Grand St,843,8.574804
+JC104,Harborside,812,12.197697
+JC108,Bergen Ave & Stegman St,74,44.507973
+JC020,Baldwin at Montgomery,684,8.006535
+JC066,Newport PATH,1600,9.707863
+HB401,Southwest Park - Jackson St & Observer Hwy,808,6.795099
+JC051,Union St,152,27.535329
+JC080,Leonard Gordon Park,314,10.344904
+JC107,Grant Ave & MLK Dr,57,18.622281
